@@ -1,0 +1,91 @@
+---
+title: "simple_quarto_website"
+format:
+  html:
+    toc: true
+    number-sections: true
+bibliography: reference.bib
+---
+
+# Welcome to a simple quarto website
+
+This is a simple quarto website.
+
+## Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+
+> "Don't let the tide pull you down - dive deeper." – Sponge Bob
+
+### Key Highlights
+
+- Lorem ipsum dolor sit amet
+- Consectetur adipiscing elit
+- Sed do eiusmod tempor incididunt
+
+## Two-Column Section
+
+::: columns
+
+Column 1 content:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor.
+
+Column 2 content:
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+
+:::
+
+## Data Table
+
+| Feature       | Description                        | Status  |
+|---------------|------------------------------------|---------|
+| Feature A     | Provides core functionality        | Active  |
+| Feature B     | Enhances user experience           | Planned |
+| Feature C     | Backend integration                | Complete|
+
+## Mathematical Equations
+
+Inline equation: The area of a circle is given by $A = \pi r^2$.
+
+Display equation:
+
+$$
+E = mc^2
+$$
+
+## Media Section
+
+### Images
+
+![Georgetown Campus](https://honorcouncil.georgetown.edu/wp-content/uploads/sites/563/2024/07/20100621-Campus_2_1195-e1721244262823.jpg){fig-align="left"}
+
+![Education Facility](https://educationsnapshots.com/wp-content/uploads/sites/4/2019/04/georgetown-university-historic-car-barn-adaptive-reuse-2-768x576.jpg){fig-align="left"}
+
+### Video
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aq5WXmQQooo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+
+## Diagram Section
+
+```{mermaid}
+graph LR
+A[Start] --> B{Decision}
+B -->|Yes| C[Process 1]
+B -->|No| D[Process 2]
+C --> E[End]
+D --> E
+```
+
+## Footnotes
+
+This is an important point that requires reference[^1].
+
+[^1]: This footnote explains the point in more detail.
+
+## Citation Example
+
+According to recent research [@cao2017data], these findings are significant for future applications.

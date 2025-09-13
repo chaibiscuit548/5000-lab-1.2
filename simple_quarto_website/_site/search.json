@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a simple quarto website.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.\n\n“Don’t let the tide pull you down - dive deeper.” – Sponge Bob\n\n\n\n\nLorem ipsum dolor sit amet\nConsectetur adipiscing elit\nSed do eiusmod tempor incididunt\n\n\n\n\n\n\nColumn 1 content:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor.Column 2 content:Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.\n\n\n\n\n\n\n\nFeature\nDescription\nStatus\n\n\n\n\nFeature A\nProvides core functionality\nActive\n\n\nFeature B\nEnhances user experience\nPlanned\n\n\nFeature C\nBackend integration\nComplete\n\n\n\n\n\n\nInline equation: The area of a circle is given by \\(A = \\pi r^2\\).\nDisplay equation:\n\\[\nE = mc^2\n\\]\n\n\n\n\n\n\n\n\nGeorgetown Campus\n\n\n\n\n\nEducation Facility\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngraph LR\nA[Start] --&gt; B{Decision}\nB --&gt;|Yes| C[Process 1]\nB --&gt;|No| D[Process 2]\nC --&gt; E[End]\nD --&gt; E\n\n\n\n\n\n\n\n\n\nThis is an important point that requires reference1.\n\n\n\nAccording to recent research (Cao 2017), these findings are significant for future applications."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.\n\n“Don’t let the tide pull you down - dive deeper.” – Sponge Bob\n\n\n\n\nLorem ipsum dolor sit amet\nConsectetur adipiscing elit\nSed do eiusmod tempor incididunt"
+  },
+  {
+    "objectID": "index.html#two-column-section",
+    "href": "index.html#two-column-section",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Column 1 content:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor.Column 2 content:Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+  },
+  {
+    "objectID": "index.html#data-table",
+    "href": "index.html#data-table",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Feature\nDescription\nStatus\n\n\n\n\nFeature A\nProvides core functionality\nActive\n\n\nFeature B\nEnhances user experience\nPlanned\n\n\nFeature C\nBackend integration\nComplete"
+  },
+  {
+    "objectID": "index.html#mathematical-equations",
+    "href": "index.html#mathematical-equations",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Inline equation: The area of a circle is given by \\(A = \\pi r^2\\).\nDisplay equation:\n\\[\nE = mc^2\n\\]"
+  },
+  {
+    "objectID": "index.html#media-section",
+    "href": "index.html#media-section",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Georgetown Campus\n\n\n\n\n\nEducation Facility"
+  },
+  {
+    "objectID": "index.html#diagram-section",
+    "href": "index.html#diagram-section",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "graph LR\nA[Start] --&gt; B{Decision}\nB --&gt;|Yes| C[Process 1]\nB --&gt;|No| D[Process 2]\nC --&gt; E[End]\nD --&gt; E"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis footnote explains the point in more detail.↩︎"
+  },
+  {
+    "objectID": "index.html#citation-example",
+    "href": "index.html#citation-example",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "According to recent research (Cao 2017), these findings are significant for future applications."
+  }
+]
