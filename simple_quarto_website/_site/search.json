@@ -68,5 +68,33 @@
     "title": "simple_quarto_website",
     "section": "",
     "text": "According to recent research (Cao 2017), these findings are significant for future applications."
+  },
+  {
+    "objectID": "slides/slides.html#introduction",
+    "href": "slides/slides.html#introduction",
+    "title": "Reveal.js Presentation",
+    "section": "Introduction",
+    "text": "Introduction\nHello, my name is Bilal. This is a test Reveal.js presentation.\nThis deck demonstrates a few slides with images, codes and citations.\nAccording to recent research (Dinov 2018); Lorem ipsum dolor sit amet consectetur adipiscing elit. Dolor sit amet consectetur adipiscing elit quisque faucibus."
+  },
+  {
+    "objectID": "slides/slides.html#images",
+    "href": "slides/slides.html#images",
+    "title": "Reveal.js Presentation",
+    "section": "Images",
+    "text": "Images\nHere are the images:"
+  },
+  {
+    "objectID": "slides/slides.html#python-code-w-plot",
+    "href": "slides/slides.html#python-code-w-plot",
+    "title": "Reveal.js Presentation",
+    "section": "Python Code w/ Plot",
+    "text": "Python Code w/ Plot\nThe following slide showcases a plot. Code should fold if extends screen.\n#| code-fold: true\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\nplt.plot(x, y, label=\"Sine Wave\")\nplt.title(\"Folded Example Plot\")\nplt.xlabel(\"X-axis\")\nplt.ylabel(\"Y-axis\")\nplt.legend()\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "Reveal.js Presentation",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\nDinov, Ivo D. 2018. “Data Science and Predictive Analytics.” Cham, Switzerland: Springer."
   }
 ]
