@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.ipynb
+      - href: slides/slides.html
+        text: Slides
 
 format:
   html:
