@@ -88,7 +88,7 @@
     "href": "slides/slides.html#python-code-w-plot",
     "title": "Reveal.js Presentation",
     "section": "Python Code w/ Plot",
-    "text": "Python Code w/ Plot\nThe following slide showcases a plot. Code should fold if extends screen.\n#| code-fold: true\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 10, 100)\ny = np.sin(x)\n\nplt.plot(x, y, label=\"Sine Wave\")\nplt.title(\"Folded Example Plot\")\nplt.xlabel(\"X-axis\")\nplt.ylabel(\"Y-axis\")\nplt.legend()\nplt.show()"
+    "text": "Python Code w/ Plot\nThe following slide showcases a plot."
   },
   {
     "objectID": "slides/slides.html#references",
